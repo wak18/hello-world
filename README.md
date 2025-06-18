@@ -1,2 +1,2 @@
 # hello-world
-lectured by miserin
+lectured by miserin to wakorin
