@@ -1,2 +1,2 @@
 # hello-world
-lectured by miserin to wakorin
+lectured by miserin June 18th
